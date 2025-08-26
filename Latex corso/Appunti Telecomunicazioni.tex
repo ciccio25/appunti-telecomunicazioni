@@ -1,0 +1,74 @@
+\documentclass{book}
+
+\title{Appunti di Telecomunicazioni}
+\author{Stefano Rossini}
+
+\usepackage{bookmark}
+
+\usepackage[italian]{babel}
+\usepackage{geometry}
+\geometry{a4paper, margin={2.54cm,1.9cm}}
+
+\usepackage{hyperref}
+\usepackage{tcolorbox} %for COLORED BOXES 
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\graphicspath{{./immagini/}}
+
+\usepackage{url}
+
+\usepackage{physics}
+
+\usepackage{amsfonts} 
+
+\usepackage{gensymb}
+
+\usepackage{textcomp}
+
+\usepackage{tikz}
+
+\usepackage{pgfplots}
+
+\usepackage{amssymb}
+
+\usepackage{imakeidx} 
+\makeindex[columns=3, title=Alphabetical Index, intoc]
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    bookmarksnumbered=true,  % <-- numerazione nelle sezioni del PDF
+    pdftitle={Appunti Telecomunicazioni},
+    pdfauthor={Autore},
+    pdfstartview=FitH
+}
+
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{4}
+
+\begin{document}
+
+\maketitle
+
+%\setcounter{chapter}{-1}
+\include{Introduzione}
+
+\tableofcontents
+
+\include{Tabella lettere greche}
+
+\include{Rumore nei sistemi lineari}
+\include{Modulazioni analogiche}
+\include{Qualità nelle modulazioni analogiche}
+\include{Conversione AD}
+\include{Teoria dell'informazione}
+\include{Codifica di linea}
+\include{Formati di trasmissione numerica}    
+\include{Ricevitore numerico}
+\include{Prestazioni sistemi numerici}
+\include{Codifica di canale}
+\include{Generazione di variabili aleatorie}
+\include{Spettro espanso}
+
+\end{document}
