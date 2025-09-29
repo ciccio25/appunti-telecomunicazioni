@@ -76,7 +76,7 @@ N.B. Le domande raccolte provengono da più giorni di orale
 - Quale è la soglia delle modulazioni angolari?
 
 ## Candidato 10 
--DPSK vs PSK 
+- DPSK vs PSK 
 - Uso del PLL nella DPSK
 - Entropia (media) della sorgente
 - Teorema della codfica di sorgente
@@ -91,4 +91,26 @@ N.B. Le domande raccolte provengono da più giorni di orale
 - DSB-SC
 - AM-Convenzionale vs DSB-SC
 - SSB vs DSB-SC
-- Come facciamo a diminuire la banda in una QAM? 
+- Come facciamo a diminuire la banda in una QAM?
+
+## Candidato 12
+- Differenza tra Lempel Ziv e Huffman 
+- Implementazione Huffman scalare e vettoriale
+- Entropy Rate
+- Vantagg e svantaggi della DSB-SC, e confronto con la AM
+
+## Candidato 13
+- Qualità della AM
+- Che valori può assumere beta rispetto alla banda di Carson? Quale è la definizione di beta?
+- Quale è la corrispondende alla FM in digitale? (è la FSK)
+- Ha senso applicare la FSK?
+- Come si demodula la FSK?
+- Ricevitore a correlatore
+
+## Candidato 14
+- Quantizzazione
+- Ottimizzazione della quantizzazone
+- Quali sono i gradi di libertò quando la quantizzazione è uniforme e non uniforme?
+- Quantizzazione scalare e vettoriale e l'importanza del centroide nella quantizzazione vettoriale
+- Standard europei e USA della quantizzazione, i.e. quanti bit/livelli si usano in una PCM
+- CDMA e il ruolo della correlazione mutua 
