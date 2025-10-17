@@ -114,3 +114,33 @@ N.B. Le domande raccolte provengono da più giorni di orale
 - Quantizzazione scalare e vettoriale e l'importanza del centroide nella quantizzazione vettoriale
 - Standard europei e USA della quantizzazione, i.e. quanti bit/livelli si usano in una PCM
 - CDMA e il ruolo della correlazione mutua 
+
+## Candidato 15
+- A cosa serve una funzione di base? Quante sono rispetti agli m segnali? 
+- Esempio formato ortogonale, condizione da rispettare per la M-FSK, se i 2 segnali hanno fasi diverse, come rispetta l'ortogonalità? 
+- Ricevitore FSK 
+- Mapping di Gray, perchè è favorevole? 
+
+## Candidato 16
+- Quantizzazione (scalare, vettoriale, ottimizzazione Loyd-Max, ecc...) 
+- Quando useremo una quantizzazione non uniforme e quella uniforme? 
+- Che distanza si usa per la quantizzazione? (distanza Euclidea) 
+- Dove abbiamo usato la distanza di Hamming? (Definizione di distorsione e codifica di canale) 
+
+## Candidato 17 
+- Modulazione FM (forma, definizione, kf, kp) 
+- Vantaggi FM rispetto alle altre modulazioni 
+- Dove abbiamo usato la distanza di Hamming? 
+- La abbiamo usata nei codici per la correzione ? 
+
+## Candidato 18 
+- FM, perchè usarla 
+- FM, qualità 
+- Banda di Carson 
+- Distanza di Hamming nella codifica di canale 
+
+## Candidato 19 
+- Codifica di canale 
+- Distanza di Hamming, rilevazione e correzione errori 
+- Guadagno di codifica, quando conviene o non fare la codifica (ragionamenti sullo spettro) 
+- AM convenzionale 
