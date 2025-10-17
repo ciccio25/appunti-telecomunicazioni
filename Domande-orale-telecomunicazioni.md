@@ -7,7 +7,7 @@ N.B. Le domande raccolte provengono da più giorni di orale
 # Domande tipo per l'orale di misure elettroniche 
 
 ## Candidato 1 
-- Andamento del coefficiente di correlazione della 2-PSK 
+- Andamento del coefficiente di correlazione della 2-FSK 
 - Un altro esempio di formati ortogonali? 
 - Dal punto di vista della banda, quando aumento N che succede con i formati ortogonali? 
 - Che vantaggio si ha nell'usare la FM? 
