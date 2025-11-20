@@ -4,7 +4,7 @@ Si cercherà di fare un discorso unico e completo: se riuscite voi, da soli, a f
 
 N.B. Le domande raccolte provengono da più giorni di orale 
 
-# Domande tipo per l'orale di misure elettroniche 
+# Domande tipo per l'orale di telecomunicazioni
 
 ## Candidato 1 
 - Andamento del coefficiente di correlazione della 2-FSK 
