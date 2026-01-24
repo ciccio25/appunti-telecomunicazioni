@@ -11,28 +11,28 @@ N.N.B. Non studiate esclusivamente dalle domande, utilizzatele per esercitarvi c
 ## Candidato 1 
 - Andamento del coefficiente di correlazione della 2-FSK 
 - Un altro esempio di formati ortogonali? 
-- Dal punto di vista della banda, quando aumento N che succede con i formati ortogonali? 
+- Dal punto di vista della banda, quando aumenta N, che succede con i formati ortogonali? 
 - Che vantaggio si ha nell'usare la FM? 
 - Posso scegliere un fattore di beta arbitrario per migliorare la qualità? 
 - Banda di Carson 
-- Il fattore beta intacca anche su un altro formati? 
+- Il fattore beta intacca anche su un altro formato? 
 
 ## Candidato 2 
 - Soglia FM (Cosa succede se non si raggiunge la soglia?) 
 - Nella modulazione PM, spiegami cosa succede se il rumore è basso (sia a parole che con i grafici) 
 - Modulatore FM 
 - Modulatore AM 
-- Entropia (perchè l'autoinformazione è sempre -log_{2} (p_i) )
+- Entropia (perché l'autoinformazione è sempre -log_{2} (p_i) )
 - DMS
 
 ## Candidato 3 
-- Entropia congiunta (A cosa serve e perchè è utile per la definizione di Entropy Rate)
+- Entropia congiunta (A cosa serve e perché è utile per la definizione di Entropy Rate)
 - Entropy Rate
 - Modulatore di Armstrong
 - Modulatore di ampiezza a basso indice, il segnale modulato che forma ha?
 - Ricevitore a correlatore
-- Quale è il problema del ricevitore?
-- Quale è la funzione del PLL?
+- Qual è il problema del ricevitore?
+- Qual è la funzione del PLL?
 
 ## Candidato 4 
 - Il ricevitore a correlatore per quali formati si può utilizzare?
@@ -55,35 +55,35 @@ N.N.B. Non studiate esclusivamente dalle domande, utilizzatele per esercitarvi c
 - Sequenze PN
 
 ## Candidato 7 
-- Filtro adattato: cosa è, dove viene utilizzato, la sua struttura
-- Differenza tra filtro adattato e ricevitore a correlatore: risultato finale e quale è il rapporto segnale rumore dopo il filtro adattato
+- Filtro adattato: cos'è, dove viene utilizzato, la sua struttura
+- Differenza tra filtro adattato e ricevitore a correlatore: risultato finale e quale è il rapporto segnale-rumore dopo il filtro adattato
 - SSB: condizioni del segnale per essere trasformato con Hilbert, rapporto segnale-rumore, tipi di demodulazioni
-- Definzione di Banda Equivalente di rumore per un sistema lineare
+- Definizione di banda equivalente di rumore per un sistema lineare
 
 ## Candidato 8 
-- Quante funzione di base sono necessarie per una 2-PSK?
+- Quante funzioni di base sono necessarie per una 2-PSK?
 - Come sono fatte le funzioni di base della 2-PSK?
-- Quali sono i problemi della de-modulazione della 2-PSK?
+- Quali sono i problemi della demodulazione della 2-PSK?
 - Come è fatto l PLL?
-- AM-convenzionale: come è fatta, quali sono le sue caratteristiche, perchè è stata ideata, differenza tra tono pilota e portante
+- AM-convenzionale: com'è fatta, quali sono le sue caratteristiche, perché è stata ideata, differenza tra tono pilota e portante
 - Come è fatto circuitalmente il circuito che svolge l'inviluppo di un segnale?
-- Prestazioni della AM-convenzionale con ricevitore a inviluppo
+- Prestazioni dell'AM convenzionale con ricevitore a inviluppo
 
 ## Candidato 9  
 - Come è fatto il PLL in un denominatore 2-PSK?
 - Come è fatto il demodulatore di un 2-PSK e quale caratteristica è importante che cambi nel segnale?
 - Come è fatto il modulatore PSK?
 - Come ci si arriva alla formula della banda delle modulazioni angolari?
-- Cosa succede all'aumentare del fattore beta nelle modulazioni angolari? Quale è il ruolo delle funzioni di Bessel?
-- Quale è la soglia delle modulazioni angolari?
+- Cosa succede all'aumentare del fattore beta nelle modulazioni angolari? Qual è il ruolo delle funzioni di Bessel?
+- Qual è la soglia delle modulazioni angolari?
 
 ## Candidato 10 
 - DPSK vs PSK 
 - Uso del PLL nella DPSK
 - Entropia (media) della sorgente
-- Teorema della codfica di sorgente
+- Teorema della codifica di sorgente
 - Quali sono gli algoritmi visit a lezione che applicano il teorema della codifica di sorgente?
-- Come si applica l'algoritmro di Huffman?
+- Come si applica l'algoritmo di Huffman?
 - Come si applica l'algoritmo di Lempel-Ziv?
 - Banda equivalente di rumore
 - Come è lo spettro dell'AWGN?
@@ -96,32 +96,32 @@ N.N.B. Non studiate esclusivamente dalle domande, utilizzatele per esercitarvi c
 - Come facciamo a diminuire la banda in una QAM?
 
 ## Candidato 12
-- Differenza tra Lempel Ziv e Huffman 
+- Differenza tra Lempel-Ziv e Huffman 
 - Implementazione Huffman scalare e vettoriale
 - Entropy Rate
-- Vantagg e svantaggi della DSB-SC, e confronto con la AM
+- Vantaggi e svantaggi della DSB-SC, e confronto con la AM
 
 ## Candidato 13
 - Qualità della AM
-- Che valori può assumere beta rispetto alla banda di Carson? Quale è la definizione di beta?
-- Quale è la corrispondende alla FM in digitale? (è la FSK)
+- Che valori può assumere beta rispetto alla banda di Carson? Qual è la definizione di beta?
+- Qual è la corrispondente alla FM in digitale? (è la FSK)
 - Ha senso applicare la FSK?
 - Come si demodula la FSK?
 - Ricevitore a correlatore
 
 ## Candidato 14
 - Quantizzazione
-- Ottimizzazione della quantizzazone
-- Quali sono i gradi di libertò quando la quantizzazione è uniforme e non uniforme?
+- Ottimizzazione della quantizzazione
+- Quali sono i gradi di libertà quando la quantizzazione è uniforme e non uniforme?
 - Quantizzazione scalare e vettoriale e l'importanza del centroide nella quantizzazione vettoriale
 - Standard europei e USA della quantizzazione, i.e. quanti bit/livelli si usano in una PCM
 - CDMA e il ruolo della correlazione mutua 
 
 ## Candidato 15
-- A cosa serve una funzione di base? Quante sono rispetti agli m segnali? 
+- A cosa serve una funzione di base? Quanti sono rispetti agli m segnali? 
 - Esempio formato ortogonale, condizione da rispettare per la M-FSK, se i 2 segnali hanno fasi diverse, come rispetta l'ortogonalità? 
 - Ricevitore FSK 
-- Mapping di Gray, perchè è favorevole? 
+- Mapping di Gray, perché è favorevole? 
 
 ## Candidato 16
 - Quantizzazione (scalare, vettoriale, ottimizzazione Loyd-Max, ecc...) 
@@ -148,8 +148,8 @@ N.N.B. Non studiate esclusivamente dalle domande, utilizzatele per esercitarvi c
 - AM convenzionale 
 
 ## Candidato 20  
-- Vantaggi FSK, come è fatto il ricevitore FSK 
-- Vantaggi FM analogica, come è fatto il ricevitore FM analogico, come agisce e qual è la legge che la determina 
+- Vantaggi FSK, com'è fatto il ricevitore FSK 
+- Vantaggi FM analogica, com'è fatto il ricevitore FM analogico, come agisce e qual è la legge che la determina 
 - Modulazione digitale a piacere 
 
 ## Candidato 21   
@@ -164,7 +164,7 @@ N.N.B. Non studiate esclusivamente dalle domande, utilizzatele per esercitarvi c
 - Codifica di canale 
 - Cosa rappresenta la distanza minima di un codice? Come viene chiamata? 
 - Distanza per un codice a bit di parità 
-- Quali sono le proprietò dell'SSB analogico? 
+- Quali sono le proprietà dell'SSB analogico? 
 - Come viene fatta la demodulazione dell'SSB? 
 - Come è fatto il demodulatore coerente? 
 - Cosa succede se si sbaglia la fase in una modulazione DSB-SC? 
@@ -173,7 +173,7 @@ N.N.B. Non studiate esclusivamente dalle domande, utilizzatele per esercitarvi c
 - Vantaggi dell'FSK 
 - Come è fatto il coefficiente di correlazione della 2-FSK? 
 - Confronto tra la formula di errore della 2-PSK ed un formato PAM 
-- Cosa rappresenta la temeperatura equivalente in un sistema lineare? Perchè viene definita equivalente? 
+- Cosa rappresenta la temperatura equivalente in un sistema lineare? Perché viene definita equivalente? 
 
 ## Candidato 24     
 - Entropia: definizione e concetti chiave 
@@ -189,25 +189,25 @@ N.N.B. Non studiate esclusivamente dalle domande, utilizzatele per esercitarvi c
 
 ## Candidato 26       
 - Significato geometrico del modulo del vettore di un segnale 
-- La modulazione ASK è un formato anti-podale? E invece la OOK? 
-- Che andamento hanno i segnali s1 e s2 nella ASK (uno è un seno ed uno deve essere -seno se sono antipodali...)? 
+- La modulazione ASK è un formato antipodale? E invece l'OOK? 
+- Che andamento hanno i segnali s1 e s2 nell'ASK (uno è un seno ed uno deve essere -seno se sono antipodali...)? 
 - Rappresentazione geometrica di un formato che ha s1 come seno ed s2 come coseno 
 
 ## Candidato 27        
 - Descrivimi la VSB 
-- Perchè utilizzo la VSB piuttosto che la SSB in determinati casi? (risposta che sta nell'uso del filtro di Hilbert, picca digressione da Teoria dei Segnali (chiamato adesso Segnali Determinati ed Aleatori)) 
+- Perché utilizzo la VSB piuttosto che la SSB in determinati casi? (risposta che sta nell'uso del filtro di Hilbert, picca digressione da Teoria dei Segnali (chiamato adesso Segnali Determinati ed Aleatori)) 
 - Passando al digitale: come funziona il formato di modulazione PPM, ad esempio la 2-PPM? 
 - Come è fatta la Pulse Position Modulation? 
 - Come è fatto il ricevitore a correlatore? 
 - Criterio MAP, criterio ML 
-- Si usa la distanza di Hamming per decidere ML di decisione del correlatore? (risposta_ no, la distanza di cui si parla è quella euclidea, quella di Hamming si limita a dire se i due "punti" sono massimamente distanti, cioè la distanza di Hamming è uguale a 1, oopure uguali, cioè la distanza di Hamming è uguale a 0; quella euclidea definisce anche quanto vale effettivamente questo "spostamento") 
+- Si usa la distanza di Hamming per decidere ML di decisione del correlatore? (risposta_ no, la distanza di cui si parla è quella euclidea, quella di Hamming si limita a dire se i due "punti" sono massimamente distanti, cioè la distanza di Hamming è uguale a 1, oppure uguali, cioè la distanza di Hamming è uguale a 0; quella euclidea definisce anche quanto vale effettivamente questo "spostamento") 
 
 ## Candidato 28        
 - Quantizzazione: silenziata e non silenziata 
 - Quanti e quali sono i parametri da utilizzare nella quantizzazione? 
-- Entropia, gradi di libertà e teoria della probailità (concetti da Teoria dei Segnali) 
+- Entropia, gradi di libertà e teoria della probabilità (concetti da Teoria dei Segnali) 
 - Quando è massima l'entropia? 
-- Quale è la legge per cui se passo da una modulazione 2-FSK ad una N-FSK, la banda si allarga? (indizio: la PPM è in banda base, l'FSK è la PPM in banda traslata, ma tutte e due allargano la banda con la stessa legge) 
+- Qual è la legge per cui se passo da una modulazione 2-FSK ad una N-FSK, la banda si allarga? (indizio: la PPM è in banda base, l'FSK è la PPM in banda traslata, ma tutte e due allargano la banda con la stessa legge) 
 
 
 
