@@ -4,6 +4,8 @@ Si cercherà di fare un discorso unico e completo: se riuscite voi, da soli, a f
 
 N.B. Le domande raccolte provengono da più giorni di orale 
 
+N.N.B. Non studiate esclusivamente dalle domande, utilizzatele per esercitarvi come "flashcards" dove aver studiato approfonditamente la teoria. 
+
 # Domande tipo per l'orale di telecomunicazioni
 
 ## Candidato 1 
@@ -144,3 +146,69 @@ N.B. Le domande raccolte provengono da più giorni di orale
 - Distanza di Hamming, rilevazione e correzione errori 
 - Guadagno di codifica, quando conviene o non fare la codifica (ragionamenti sullo spettro) 
 - AM convenzionale 
+
+## Candidato 20  
+- Vantaggi FSK, come è fatto il ricevitore FSK 
+- Vantaggi FM analogica, come è fatto il ricevitore FM analogico, come agisce e qual è la legge che la determina 
+- Modulazione digitale a piacere 
+
+## Candidato 21   
+- Come funziona un filtro adattato? 
+- Vantaggi di un filtro adattato rispetto al filtro a correlatore? 
+- Quanto vale il rapporto massimo segnale/rumore di un filtro adattato in uscita? 
+- Come si trovano le funzioni base? 
+- Cosa faccio se voglio verificare se due segnali sono ortogonali? 
+- Descrivimi il demodulatore dell'AM convenzionale 
+
+## Candidato 22   
+- Codifica di canale 
+- Cosa rappresenta la distanza minima di un codice? Come viene chiamata? 
+- Distanza per un codice a bit di parità 
+- Quali sono le proprietò dell'SSB analogico? 
+- Come viene fatta la demodulazione dell'SSB? 
+- Come è fatto il demodulatore coerente? 
+- Cosa succede se si sbaglia la fase in una modulazione DSB-SC? 
+
+## Candidato 23    
+- Vantaggi dell'FSK 
+- Come è fatto il coefficiente di correlazione della 2-FSK? 
+- Confronto tra la formula di errore della 2-PSK ed un formato PAM 
+- Cosa rappresenta la temeperatura equivalente in un sistema lineare? Perchè viene definita equivalente? 
+
+## Candidato 24     
+- Entropia: definizione e concetti chiave 
+- Nel formato VSC cosa si intende per "vestiglio" nella banda e cosa cambia dalla trasmissione a banda singola? Come devo sfruttare il filtro per ricostruire il segnale? 
+
+## Candidato 25      
+- Che tipo di modulazione è quella OOK? 
+- PPM vs FSK 
+- Quando due segnali sono ortogonali? Di conseguenza, quando N segnali sono biortogonali? 
+- La 2-PAM è ortogonale? 
+- Passando all'analogico: come è fatto il demodulatore di frequenza? 
+- La banda di un segnale modulato in FM quanto è larga? 
+
+## Candidato 26       
+- Significato geometrico del modulo del vettore di un segnale 
+- La modulazione ASK è un formato anti-podale? E invece la OOK? 
+- Che andamento hanno i segnali s1 e s2 nella ASK (uno è un seno ed uno deve essere -seno se sono antipodali...)? 
+- Rappresentazione geometrica di un formato che ha s1 come seno ed s2 come coseno 
+
+## Candidato 27        
+- Descrivimi la VSB 
+- Perchè utilizzo la VSB piuttosto che la SSB in determinati casi? (risposta che sta nell'uso del filtro di Hilbert, picca digressione da Teoria dei Segnali (chiamato adesso Segnali Determinati ed Aleatori)) 
+- Passando al digitale: come funziona il formato di modulazione PPM, ad esempio la 2-PPM? 
+- Come è fatta la Pulse Position Modulation? 
+- Come è fatto il ricevitore a correlatore? 
+- Criterio MAP, criterio ML 
+- Si usa la distanza di Hamming per decidere ML di decisione del correlatore? (risposta_ no, la distanza di cui si parla è quella euclidea, quella di Hamming si limita a dire se i due "punti" sono massimamente distanti, cioè la distanza di Hamming è uguale a 1, oopure uguali, cioè la distanza di Hamming è uguale a 0; quella euclidea definisce anche quanto vale effettivamente questo "spostamento") 
+
+## Candidato 28        
+- Quantizzazione: silenziata e non silenziata 
+- Quanti e quali sono i parametri da utilizzare nella quantizzazione? 
+- Entropia, gradi di libertà e teoria della probailità (concetti da Teoria dei Segnali) 
+- Quando è massima l'entropia? 
+- Quale è la legge per cui se passo da una modulazione 2-FSK ad una N-FSK, la banda si allarga? (indizio: la PPM è in banda base, l'FSK è la PPM in banda traslata, ma tutte e due allargano la banda con la stessa legge) 
+
+
+
+
